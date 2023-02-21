@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Ariq Naufal Fadhlurrahman**.\
+Perkenalkan nama saya **Ariq Naufal Fadhlurrahman**.
 
 Saya seorang **Junir Game Developer | Web Developer** 
 
